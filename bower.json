@@ -1,0 +1,23 @@
+{
+  "name": "react-pure-carousel",
+  "main": "index.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kenwheeler/nuka-carousel",
+  "authors": [
+    "Owen Ayres <owen.ayres@gmail.com>"
+  ],
+  "description": "A pure React carousel.",
+  "keywords": [
+    "carousel",
+    "react",
+    "react-carousel",
+    "react-pure-carousel",
+    "pure"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}

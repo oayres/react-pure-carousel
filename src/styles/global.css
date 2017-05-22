@@ -1,0 +1,32 @@
+/* img tags force blocks */
+:global .slider-slide > img {
+  width: 100%;
+  display: block;
+}
+
+:global .slider {
+  position: relative;
+  display: block;
+  height: auto;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+:global .slider-frame {
+  position: relative;
+  display: block;
+  padding: 0;
+  transform: translate3d(0, 0, 0);
+  -webkit-transform: translate3d(0, 0, 0);
+  -ms-transform: translate(0, 0);
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+:global .slider-list {
+  position: relative;
+  display: block;
+  padding: 0;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}

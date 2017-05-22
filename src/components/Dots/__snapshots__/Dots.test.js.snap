@@ -1,0 +1,13 @@
+exports[`The Dots component renders without exploding 1`] = `
+<ul
+  className="list">
+  <li
+    className="item">
+    <button
+      className="button"
+      onClick={[Function]}>
+      •
+    </button>
+  </li>
+</ul>
+`;
