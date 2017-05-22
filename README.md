@@ -3,13 +3,15 @@
 [![Build Status](https://travis-ci.org/oayres/react-pure-carousel.svg?branch=master)](https://travis-ci.org/oayres/react-pure-carousel)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+**This is not ready for production.**
+
 Do you _really_ need a carousel? Check out the [demo](http://owenayres.co.uk/react-pure-carousel).
 
 ```sh
 npm install react-pure-carousel --save
 ```
 
-### Usage
+## Usage
 
 ```js
 <Carousel {...settings}>
