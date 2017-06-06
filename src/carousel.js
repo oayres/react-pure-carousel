@@ -127,7 +127,7 @@ class Carousel extends Component {
           </ul>
         </div>
 
-        { this.renderDecorators(decorators) }
+        { this.renderDecorators(this.props.decorators) }
       </div>
     )
   }
